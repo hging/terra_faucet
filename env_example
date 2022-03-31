@@ -2,3 +2,4 @@ MNEMONIC = 'fill ur mnemonic here'
 PROXY = 'fill proxy link here. like: http://abc:bcd@proxy.example.com:2947'
 CAPTCHA_KEY = 'fill 2captcha.com key here'
 MAX_INDEX = 1000 # max faucet index
+START_INDEX = 0 # faucet start index
